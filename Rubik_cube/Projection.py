@@ -1,3 +1,7 @@
+"""
+This part is used to project the cube into 2D image.
+"""
+
 import numpy as np
 
 class Quaternion:
